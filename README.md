@@ -5,14 +5,6 @@
 
 
 
-###
-
-<img align="right" height="146" src="https://avatars.githubusercontent.com/u/96824801?v=4"  />
-
-###
-
-
-
 
 
 ## 🌐 Socials:
