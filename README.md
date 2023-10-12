@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="250" widht="1000" src="https://media.licdn.com/dms/image/C5616AQE83e9tIn1OCA/profile-displaybackgroundimage-shrink_350_1400/0/1662834730037?e=1702512000&v=beta&t=jYV3GeE5_SCj88koZTBNi1YpYxVWafRmfE0pKugBs2c"  />
+  <img height="250"  src="https://media.licdn.com/dms/image/C5616AQE83e9tIn1OCA/profile-displaybackgroundimage-shrink_350_1400/0/1662834730037?e=1702512000&v=beta&t=jYV3GeE5_SCj88koZTBNi1YpYxVWafRmfE0pKugBs2c"  />
 </div>
 
 <h1 align="center">Md Saidul Basar Bappy</h1>
