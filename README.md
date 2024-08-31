@@ -4,8 +4,9 @@
 
 <h1 align="center">Md Saidul Basar Bappy</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=22C93B&center=true&vCenter=true&width=435&lines=Passionate+Web+Developer;Lifelong+Learner;Building+the+Web+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38bdf8&center=true&vCenter=true&width=435&lines=Passionate+Web+Developer;Lifelong+Learner;Building+the+Web+with+Code" alt="Typing SVG" />
 </h3>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%232c3e50.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/shaiadul#1014) 
