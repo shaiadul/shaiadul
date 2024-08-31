@@ -6,8 +6,6 @@
 
 
 
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%232c3e50.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/shaiadul#1014) 
 [![Facebook](https://img.shields.io/badge/Facebook-%233b5998.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100075003758713) 
@@ -17,11 +15,9 @@
 ![CSS3](https://img.shields.io/badge/css3-%231E3A8A.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23DC2626.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%233F3F46.svg?style=for-the-badge&logo=javascript&logoColor=%23FACC15) 
-![PHP](https://img.shields.io/badge/php-%236B7280.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-%234B5563.svg?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![TypeScript](https://img.shields.io/badge/typescript-%232c3e50.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%2307C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white) 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%232c3e50.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237B2CBF.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) 
@@ -45,6 +41,10 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%2363B3ED.svg?style=for-the-badge&logo=swagger&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-%2363B3ED.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-%232C5C8C.svg?style=for-the-badge&logo=.net&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data+Analysis-%232C5C8C.svg?style=for-the-badge&logo=python&logoColor=white)
+
 
 # 💻 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shaiadul&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=2c3e50&title_color=38bdf8&text_color=10b981&icon_color=f472b6)<br/>
