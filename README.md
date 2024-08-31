@@ -17,6 +17,14 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%233F3F46.svg?style=for-the-badge&logo=javascript&logoColor=%23FACC15) 
 ![Python](https://img.shields.io/badge/python-%234B5563.svg?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![TypeScript](https://img.shields.io/badge/typescript-%232c3e50.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Swagger](https://img.shields.io/badge/-Swagger-%2363B3ED.svg?style=for-the-badge&logo=swagger&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-%2363B3ED.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-%232C5C8C.svg?style=for-the-badge&logo=.net&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data+Analysis-%232C5C8C.svg?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%230A0FFF.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%230A0FFF.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%230A0FFF.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%2307C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%232c3e50.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237B2CBF.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
@@ -39,11 +47,7 @@
 ![Portfolio](https://img.shields.io/badge/Portfolio-%232c3e50.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) 
 ![Notion](https://img.shields.io/badge/Notion-%232c3e50.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Swagger](https://img.shields.io/badge/-Swagger-%2363B3ED.svg?style=for-the-badge&logo=swagger&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-%2363B3ED.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-%232C5C8C.svg?style=for-the-badge&logo=.net&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data+Analysis-%232C5C8C.svg?style=for-the-badge&logo=python&logoColor=white)
+
 
 
 # 💻 GitHub Stats:
