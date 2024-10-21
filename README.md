@@ -1,6 +1,6 @@
 <h1 align="center" >Md Saidul Basar Bappy</h1>
 <h2 align="center" style="margin-top: -10px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=22&pause=1000&color=38bdf8&center=true&vCenter=true&width=435&lines=Passionate+Web+Developer;Full+Stack+Web+Developer;MERN+Stack+Enthusiast;.NET+Developer;Building+the+Web+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=22&pause=1000&color=38bdf8&center=true&vCenter=true&width=435&lines=Passionate+Web+Developer;Full+Stack+Web+Developer;MERN+Stack+Enthusiast; Building+the+Web+with+Code" alt="Typing SVG" />
 </h2>
 
 
